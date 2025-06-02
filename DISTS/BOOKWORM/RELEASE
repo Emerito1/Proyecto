@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: bookworm
+Components: main
+Date: Wed, 09 Apr 2025 07:33:15 +0000
+Label: Proxmox Debian repository
+Origin: Proxmox
+Suite: bookworm
+MD5Sum:
+ d0d67c36abcc5443135aae8fdc001c76              160 Release
+ 3ea639858011dca02a1eeff64a4e56a8           375193 pve/binary-amd64/Packages
+ d3c51b7aa3e0b1af894c97944351ec97           129602 pve/binary-amd64/Packages.gz
+SHA1:
+ 16adbb21950e0a8bdd69fb169eab037087e0043a              160 Release
+ 2273f6f768aa732d72d80d106effc0e99226b620           375193 pve/binary-amd64/Packages
+ a614e851fe138ddddeebc0f219193c58ef558f11           129602 pve/binary-amd64/Packages.gz
+SHA256:
+ cad2a1e118fd5ef79cd6113aafd55697aaf3cebadc72e1e25e013dcde20e5dda              160 Release
+ 412cca1a73726aeee5f25a0cb2706237d630f2ff843a05af17743deb3e417b94           375193 pve/binary-amd64/Packages
+ 0569def28e23af8f7cd0a3d979ede00f9046fa2ecc838eba2a6fc0a9028cd7b2           129602 pve/binary-amd64/Packages.gz
+SHA512:
+ dddddad283ea5201ec6b2b3340753cda0a996d9a87b6b4d5f7b4f7332e48823a2d269a2b309d98129ca4e35f587f1f4cf43d36462389f83c3fad336c0a30cacc              160 Release
+ 1416732ba0ac0f7b6752b8535a8bf140edc2d55a56f3c3638c6cedec80d4335a8af935d4895047a7010c106db2d3536a4592d2901f05e10ddc41bff97609f166           375193 pve/binary-amd64/Packages
+ 27e7630d8ad62bb0fd875c051a8e433c5d16d4bb400d97453d0d8182eefa2476f405e05f8a52bbe3d16874e0ef509aa01b042d7e463439781cc0274c6d6eff02           129602 pve/binary-amd64/Packages.gz
